@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+h1, h2{
+    text-align: center;
+}
+.pt, .his, .ing, .mat, .cie{
+    border: 1px solid black;
+    border-radius: 9px;
+}
+header{
+    border: 1px solid black;
+    border-radius: 9px;
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+
+#container{
+    margin-top: 0.5em;
+    font-family: arial;
+    
+
+}
+.box{
+    padding-bottom: 1em;
+}
+
+.pt{
+    background-color: rgb(238, 255, 0);
+}
+.his{
+    background-color: rgb(182, 1, 1);
+}
+.ing{
+    background-color: blue;
+}
+.mat{
+    background-color: purple;
+}
+.cie{
+    background-color: rgb(1, 56, 71);
+}
+.perguntas{
+    padding: 2em;
+}
+
+#btn{
+    margin-top: 1em;
+    height: 60px;
+    width: 100%;
+    border-radius: 9px;
+    font-size: 30px;
+}
